@@ -1,0 +1,15 @@
+@charset "utf-8";
+body h1 {
+	font-family: "HGｺﾞｼｯｸE";
+	color: #FF8600;
+	font-size: x-large;
+	font-weight: normal;
+}
+.key {
+	color: #F3F8E0;
+	background-color: #0046F9;
+	font-size: x-large;
+}
+body p img {
+	border: 10px dotted #00FA43;
+}
